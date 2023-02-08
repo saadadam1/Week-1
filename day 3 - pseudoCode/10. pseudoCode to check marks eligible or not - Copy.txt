@@ -1,0 +1,20 @@
+10. To accept marks and check it is valid or not.  (0-100)  
+
+
+Begin
+   number marks
+   
+   print("Enter number 1")
+   input num1
+
+   
+   if marks>=0 && marks<=100
+   {
+   print("the marks is valid")
+   }
+  else
+  {
+  print("the marks is not valid")
+  }
+
+end

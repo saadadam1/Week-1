@@ -1,0 +1,20 @@
+Ex-2:  Accept 2 number and print big number 
+ 
+Begin
+   number num1, num2
+   number total,avg
+   print("Enter number 1")
+   input num1
+   print("Enter number 2 ")
+   input num2
+   
+   if num1>num2
+   {
+   print(num1,"is bigger")
+   }
+  else
+  {
+  print(num2,"is bigger")
+  }
+
+end

@@ -1,0 +1,18 @@
+
+ 1. accept project marks a
+ 2. accept external marks b
+ 3. accept internal marks c
+
+ 4. check if a is 50% above, if yes pass
+ 5. check if b is 50% above, if yes pass
+ 6. check if c is 50% above, if yes pass
+
+ 7. take 70% of a ie: 70*a/100, and replace a with the 70% of a
+ 8. take 20% of b ie: 20*b/100, and replace b with the 20% of b
+ 9. take 10% of c ie: 10*c/100, and replace c with the 10% of c
+
+ 10. accept d = a+b+c
+
+ 11. if d >= 90, print A grade
+ 12. else if d >= 70 & d < 90 , print B grade
+ 13. else if d >= 50 & d < 70, print C grade

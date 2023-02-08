@@ -1,0 +1,16 @@
+Ex-2:  Find gross salary from basic salary.
+ 
+Begin
+
+   number basic, da, hra
+   number gross
+   print("Enter the basic salary")
+   input basic
+   hra = (67*basic)/100
+   da = (89*basic)/100
+     
+ 	gross=basic+da+hra
+         
+   print("gross salary is :" ,gross)
+
+end

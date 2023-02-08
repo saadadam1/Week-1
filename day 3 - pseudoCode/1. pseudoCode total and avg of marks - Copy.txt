@@ -1,0 +1,17 @@
+Ex-2:  Accept 3 subjects marks and find total and avg.
+ 
+Begin
+   number sub1, sub2, sub3
+   number total,avg
+   print("Enter sub 1 score")
+   input sub1
+   print("Enter sub 2 score")
+   input sub2
+   print("Enter sub 3 score")
+   input sub3
+        total=sub1+sub2+sub3
+         avg=total/3
+   print("total marks :" ,total)
+  print("avg marks: ",avg)
+  
+end

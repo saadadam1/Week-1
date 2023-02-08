@@ -1,0 +1,16 @@
+2. Write a algorithm to accept employee salary and 3 shopping bills, find below
+         --> total shopping amount
+         --> % of amount he/she is spent on shopping.
+
+
+
+
+
+
+step 1: Read salary 
+step 2: Read first bill 
+step 3: read second bill 
+step 4: read third bill
+step 5: add first second and third bill and store in total variable 
+step 6:percentage-(total bill*100)/salary 
+step 7: display percentage

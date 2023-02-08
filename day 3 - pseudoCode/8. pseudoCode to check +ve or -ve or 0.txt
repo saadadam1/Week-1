@@ -1,0 +1,22 @@
+Ex-2:  Accept  number and print positive or negative or 0 
+ 
+Begin
+   number num1
+   
+   print("Enter number 1")
+   input num1
+
+   
+   if num1 == 0
+   {
+   print(num1,"is 0")
+   }
+  else if num1>0
+  {
+  print(num1,"is positive")
+  }
+  else
+  {
+ print(num1,"is negative")
+  }
+end

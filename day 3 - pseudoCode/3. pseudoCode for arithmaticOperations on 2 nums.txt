@@ -1,0 +1,24 @@
+Ex-2:  to accept two numbers and find addition,substraction,division 
+and multiplication.
+ 
+Begin
+
+   number num1, num2
+   number add,sub,mul,div
+   print("Enter the first number")
+   input num1
+   print("Enter the second number")
+   input num2
+  
+  add = num1+num2
+  sub = num1-num2
+  mul = num1*num2 
+  div = num1/num2
+   
+
+ print("addition of the two num is", add)    
+ print("substraction of the two num is", sub)    
+ print("multipilication of the two num is", mul)    
+ print("division of the two num is", div)    	
+
+end

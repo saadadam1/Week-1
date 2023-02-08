@@ -1,0 +1,10 @@
+  1. Write a algorithm to accept 3 subjects marks and find total and avg marks.
+  2. Write a algorithm to accept employee salary and 3 shopping bills, find below
+         --> total shopping amount
+         --> % of amount he/she is spent on shopping.
+ 
+  3.  Write algorithm to read basic salary and find gross salary.
+           Gs=  Basic+HRA+Da
+   
+      --> Hra is 78% on basic
+      --> Da is 90% on basic

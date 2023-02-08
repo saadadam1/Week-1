@@ -1,0 +1,10 @@
+1. Write a algorithm to accept 3 subjects marks and find total and avg marks.1. Write a algorithm to accept 3 subjects marks and find total and avg marks.
+
+
+step 1: read first number 
+step 2: read second number 
+step 3: read third number
+step 4: Add first second and third mark 
+step 5: Take average of first second and third mark
+step 6: display total of marks 
+step 7: display average of marks

@@ -1,0 +1,34 @@
+10. To accept withdraw amount and print no. of notes. (500,200,100) 
+
+
+Begin
+   number amount,x1,x2,x3
+   
+   print("Enter the amount to withdraw")
+   input amount
+
+   if amount%100 != 0
+   {
+  print("invalid amount")
+   }
+   else if amount>500
+   {
+   x1=amount/500
+   amount=amount%500
+   }
+   if amount>200
+   {
+  x2=amount/200
+  amount=amount%200
+   }
+  if amount>100
+   {
+  x3=amount/100
+  amount=amount%100
+   }
+
+ print(x1," 500 notes")
+ print(x2," 200 notes") 
+ print(x3," 100 notes")
+
+end

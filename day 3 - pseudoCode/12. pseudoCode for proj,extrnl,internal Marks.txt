@@ -1,0 +1,62 @@
+12. To accept project marks, internal and external score and check student got pass in 3 subjects (project,internal and external) , pass marks: 50/100
+        calculate total score if student got pass in 3 subjects.
+           70% from project
+           20% from externals
+           10% from internals
+         print grade based on total score:
+                90+    --> A
+                70-- 90   --> B
+                50--70    --> C
+ 
+          print failed subject name along with score.
+
+
+begin
+
+number int,ext,proj,p,e,i
+number tot
+ print("enter project marks")
+ input proj
+ print("enter external marks")
+ input ext
+ print("enter internal marks")
+ input int
+
+
+if int>=50 && ext>=50 && proj>=50
+{
+p=(proj*70)/100
+e=(ext*20)/100
+i=(int*10)/100
+tot =p + e + i
+
+if total>90
+{
+print("Grade A")
+}
+else if total>70
+{
+print("Grade B")
+}
+else
+{
+print("Grade C")
+}
+}
+else 
+{
+if proj<50
+{
+print("failed in project ",proj)
+}
+if ext<50
+{
+print("failed in external ",ext)
+}
+if int<50
+{
+print("failed in internal with ",int)
+}
+}
+
+end
