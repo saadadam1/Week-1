@@ -1,0 +1,17 @@
+7. Draw a flow chart to print sum of even numbers and sum of odd numbers of 1-10.
+
+begin
+ 
+  number num=1,esum=0,osum=0
+     while num<=10
+          if num%2==0
+             esum=esum+num
+             num=num+1
+          else
+             osum=osum+num
+             num=num+1
+          
+     print(esum,"is the sum of even numbers of first 10 number")
+     print(osum,"is the sum of od numbers of first 10 number")
+
+end
