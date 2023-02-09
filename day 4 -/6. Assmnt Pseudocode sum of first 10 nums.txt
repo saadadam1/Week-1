@@ -1,0 +1,13 @@
+6. write pseudoCode to print sum of first 10 numbers
+
+begin
+ 
+  number num=1,n=0
+
+     while num<=10
+          n = num + n
+ 	  num = num + 1
+          
+     print(n,"is the sum of first 10 number")
+
+end
