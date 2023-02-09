@@ -1,0 +1,16 @@
+1. Write a program to accept number and print factors of that number:
+     Sample input:  10
+     ouput:  1, 2, 5
+ 
+     Sample input:  50
+     ouput:  1, 2, 5, 10, 25
+ 
+2. Write a program to accept number and print number of factors of that number: 
+     Sample input: 10
+     ouput:  3
+    Sample input:  50
+      output: 5
+ 
+3. Write a program to check the given number is prime number or not
+ 
+     Hint: Prime numbers are having only 1 factor. 

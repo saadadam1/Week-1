@@ -3,8 +3,9 @@
 begin
  
   number num=1
-
-     while num<=10
+    
+    for(num=1;num<=10;num++)
+  
 	{
           if num%2==1  
 	    {
@@ -12,7 +13,7 @@ begin
  	    
 	     }
           
-	     num=num+1
+	   
 		
 	}
 end

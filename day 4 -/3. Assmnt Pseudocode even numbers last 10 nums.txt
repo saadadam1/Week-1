@@ -5,14 +5,16 @@ begin
   number num=10
 
      while num>=1
+	{
           if num%2==0  
 	    {
 	    
 	     print(num)
- 	     num = num - 1
+ 	     
 	     }
-          else {
-	     num= num - 1
-		}
+      
+	   num= num - 1
+	       
+	}
 
 end
